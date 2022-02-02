@@ -1,6 +1,6 @@
 # Tryunfo
 
-# Descrição
+## Descrição
 Neste projeto foi desenvolvido um jogo no estilo Super Trunfo! Ao utilizar essa aplicação uma pessoa usuária deverá ser capaz de:
 
     Criar um baralho, com o tema livre;
